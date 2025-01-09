@@ -1,0 +1,3764 @@
+Input: 5P
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: SCZ5iVS(
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: e*YaKfW0pn=05=8I+8286+7871MR+D)4kaOl0M=gYQx
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: /U8t=2=P)404491(06c/q+j/NR+fk*C4g3u220U)Tn+zl*-g*/16Eyi*/EP()U3x3=-+/SAqXibRfu2O0-*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Up+3*)(Wr+0(1(dSGOwxt=04dCwQ+B/+(
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 2mdI24o-=7l)9+*p5*6ws0ozw0WjSUc)P7IA9i=/KW2nvOScM/2+1b9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: )*xn+-)Wlc3zB*)a5)tVY9BL-Z(6cg4aRLG6US6N5p0/1C3/==dpoW7Cv*I+u8j/*W3)T636814Qg4*D0U2x)P=He)i+9*E=K11e)Lz2Bhh)*8R8-*97
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: =n9(S1C187VS-bRv(w4TzlY59d1-H09K44zMxzY9Ig1/a/(-V(8)/YdL((50*)QCCH2-8)AT(p1X(CQbfa+F0W7-3qr/oGf+taL=(73o45-y)nNIlsrd48W7at-CX)65)
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 1Ci*9c-dx2(T2nz
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: c
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: pg+y6s2yopmRs7DH9Mouo8ZVH17WTXu78)p23V45F
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: y)Vzfl12W8lgU*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: jC(*63nQ)Sdb=f+55f7M7O3a-t4v0*((1uH
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: FA)+34CXv7)vc-=n0(3+y*cI/B-9(*zC(R2mx0J9l32D=5H(2u+FR9Q16=2p2/)2NsVD/q8=e6aG4uK6)j37*-6)(57m2lu+
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: L)118+L86z3VZaKs12=-y*S5iV6rY//-W+u-6G3Nki+=2JpzZ-)q5d(92(s*14gPkdr
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 5+7-I83ifzlxUyb)oa+04iQ7I*p(+/G-33C/55Q
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: x3I-U1/RI5n*1jXl252
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: mY/zl-S4MNO9VSe8
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 9Z*l/n=XZB=f*v/77p-683t3
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: rY3Pkm(7/71NT+Lhx*V-/e8-*NOWQzS4s7Uu=YIUer(A(JkIz-//4/+JL+o2u+82RD24-Y/+67JP+-1Jw2iL)/
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: (yL/28L-00733/+K-(886v+6u2Tj9yA2V+N7fPD(45EH-=S7MLPjz(*D53/O=uyG0=l=*q(H9-CK79E+q2-*973gB*Ee)Eu1w
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: x(6I*npft+BY30csU
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: I)gqwK*-nh814-rP=J1U/g+6KR7+gw-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: AO1+f9s9J-*o+*8220T548329-NGPG/9K**0q9=X=FK*Ue6
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: =l-8z040G6ig=+ALszFPrmk368uhJG
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Gn)NI9dB349-)1T*jP*Mr(uqE
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 66: Processing division operator
+Line 69: Division result: 1.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: 1.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 1.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: TQR5s6uh3u*72yt5
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: o1)T
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: e
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 2NtAP0W9ZX4w7ocJ)55
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: E-m4Fr7b-4a65j*-*x20)L5PVH8=Oet
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: PD=785+m=B59L/MWOQlpY0I+qQC))=2wh44B
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +9/
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: I8v*5D81Uo*=7)*o*dH+(NTsA4t6c36Z96)6JQn0(nbp*7=N/*-83z3-9*dN=)07N1U
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Eh(+LmM+n((J)9O/1f/+5+c0()wLh**(vvFPoCb90*ixNO=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: T*p(AW/9LCT9EO7ddpfgUy
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: jw7(3(*vey2lrl7)f6E9-)1)
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2.718280
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 1mS
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: MYWRa026x=Zl((0H0ov-TOR90t=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +yBqP=e9H(l1TXw/k-/+e4=Q8o)-68Fd/EUvHkR3k/)1YYxV)iQ*Fb)n=qnXKT5(/=IjepSw2dT5Y5D25+7Q1//UP/xn)+1=O1/(62
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: n7)563+O7-L0d72QR=*)4Gd4gCTtWxlv
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: SZYZ-2p+=GuCd444r)mNrQ070/6GIac2rmlE06y*8(RO*x2M4kZkK5m377xj+cG91
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: )wmz
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: h*=)g-r)i7J4T9n2ynyb5m1)-Gl*z+5
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: re)v5/zRR
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 3q-K))U4Zo
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 5v-mDb6EU+901*e
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: v4P4JPG*X(H0
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 5nwI/q+O+=-Fuz6lua(O(q)hoJ)j6RZtc
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: *6
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: u+jy9OA33v*A5t6b0H(-=+3=VU
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 33)9MFf/-jaCxug4M-b79)ea
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 7wsP9E-dfTFPe=940)=T*7I7++=BrGyPc
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 2449.170349
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 27: Processing addition operator
+Line 30: Addition result: 2449.170349
+Line 497: Completed tree traversal
+Line 500: Final computed value: 2449.170349
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: g
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 7=o+76bs3=EkYV3qZ-4=J56-x-Mpn4*Sa*j
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +W-6HFzX=q=PnI*Wc7E/H01UFnzk3-OIz(152+Lbm0)-8zn=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 54Syopq5))=xeC*-(9m=H--4K7mky71*RZQ)F54Gi=n7=4p9zkH6kJ
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: /19p=95H94f-i/fxkwGQ9Dkmha5
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: N=3Ox
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: (b732+ok-L8x8K)TU2-(*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 1-(k4)/+)3DJb/I
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: -kRth8KAa=1e1xIM(s=b0
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: zTB+YHww=Qu(h2741H-ERVA=lcPvmA/)C=(63
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 13w=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: urVo+Mvg-f)Xllo+o2)5xR4-A4o+/1n8=psj(lZkFZUw46If78ODZt(+2v=RxDXjec1SXUq0)*jS8qESZ3DQ8vK+
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: y3ZY+xx3anf9S=HXXZu/x=(
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: --B+nut/CPVKXZU=AcLH9Jgg-+vzrzT
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 2L/(
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +hJ5w)I7VHRC=/22xZrO+Q11h5zFGsluj=645qc6+/4n9A7mst8-z+d
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: t9*AG48
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: bzylBiy
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: ATaz)UG)mA5364)=sT266z2)2mLh*33R
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: ZgBaBK8
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: JD*m9/X)Hx9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: (0=d025Nj6*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 89IpaNQNl+=r6
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: cRQMr+e0+I3S(c0qppFxDf6-wWl55=NH1jc-5O+=(x3kp(ag=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: nhAS5q=KvoB3(6fkq)Y3KUi-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: uj-42IBy+/1qcKZH6JRV*c=6)(TOSu9QW/+huV+)eV*W(pT)0-m00P6EeB/C3Byyb0U27=VnS2/l1)
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: -L01=2z6Aw0U6=67U97((Vn9)77+/5+i303-a46fuC+aK6C
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: N64NXLYX50j+xj*M/-E*=Iml)PG9))6BSa9(E)T+=50zx8LWJ/*4tt
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: f9Wt+I(gYOlRS-(p37*gLuM2=/E2x7kt*a-2b9U435=fye6Es5RD5H3829628Iuq775=IBDVT8+vvi26E13Z
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +5Sn=V/WwnB*k95(-2Y-E202w-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: -u
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: hn7F7Ga5P-Nh2
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: (KsLUp0(D9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 6*9*1(RR-RKKO7q0r280F
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: QbR8nC3Q))(N2kZYJ)R33J2*02D
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 3HE5TB7+*=lIf
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: i(8u=((G(7
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: YSP/esZ*Z(c(tK)RsRX5/7xPmB0mCs9)X1s5Y9/W4=zZ(-F42*4+y++7hm3)hJt4P2D4RzguK/)=-/1=P4I2*J05rUY7(0MiE2d
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +nL+8*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Ki45h0iG(fg=76/C)20)-/O0smv
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +-0uS6E/4a71g1vB-*Js/w=7e9skq(S3(Y3i1a*T/xPQSX30/h7LwJ6fb1pZS4izA8+/ggb0uu7/8Wx)dh
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: x-9+*7t4e=4t0+Zd5w32qWJru*5-k-=hH+3u-T1y=)ON+m54z4A+Y/=n9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 7DGKJ2n8lVqJGN0D4h-K+5RN4Bas3LAp6TqjmhRKIP3Voj6-4ey(Xq7lN=m+VvP1NdFaB
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 9+3vv)w7*0t=)c3+e09mz=nhK-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: RgNp=7y8-*f34*2
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Y+)/329g0q98+RJ)*g/-(Dp6*8ch755eQ08(Tiy0(b+e**J08Wc*
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: nu4
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: *3t/R
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: =/6/+90()Tz0ndgJiZUa4K+kj+x6y8
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: qwH=97g9D++7H2*7sfL/qk03(4+OW8m7ch=+p6o/(q(d/+Z)LRK-9Sd/zq=*Uf3
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 6D19g=F
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 0QXf5q(=2=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Ea+q-h=1/+hC)+3k=14)2F55z-d=M6*7Itr*LT6
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: O*Qk
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 7)Ve883Oc25*c*=j
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: OnuZ*)LKPR803l1Y-XdF+=V1cg0MxMvr0e()/r44a*2c*//v=0l324=Fmv2-q7a
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: )wtnz((1jWky618jf28e530e)In7eu9MnYr)7M-AWyT(PA3iv+ocRCKo155
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: DQd)21FT9M39Hx+o-8mggi3S*3eL3dq
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: =8dANuhz)685j039-j7
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 657J8*+*93NsMxR63K66FstwNY0/
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 448: Processing unary operator
+Line 462: Processing unary positive
+Line 465: Unary positive result: 0.000000
+Line 471: Returning from unary operator processing
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: YJ
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: +-tfP=E+oC2ov6g/n20
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 497: Completed tree traversal
+Line 500: Final computed value: 0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: H-SYmex6fBwVX*9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: -y*(6J=dIUG)pA=
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 0(QaTB)AVS6*n)y60049D==6E
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 85*C-7=/7fCe4r*-5xEHWw94y5kEg75=d-+k2=9)X7D7+9(/*4VJG7-iu((l*08(2Z)Oj56E9Hx4XlQ5yLoD
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: =86Y0=n1MRUh10=p3==j7aoj9
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: r)L1CX37ZBV-NNpS2t4r2t*q-(8iZC6yZZOi0(j=5-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 1/Gd69=Yr745Y5=D+5iq5KUpoOL*No-
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 60A71KKhU)()7P=6uiW/(ZS47*a5
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: Z45X(4wFL*6ji*D
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 3*Q7+93=08+/F(+5RSN+L/8Ice1L098d-+81XPCKfk(((I-)Jn)LE18/
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 9DS/E9X09s3=dF)3TYO/Hu)j=ZW-6(pv-YwXxNV8
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: CwgHt)0I=38gI-Y*616z=(yX53OVz7HA+A9()zhz673c6M11JZ84k-W1utZ+T10
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: /Uy*K0Od71+Ng+u
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: 5WbuD81/q-)-U9qmNh0+Yh/n=9s5a=jk6N3+NWeLfs)+y3/GOOE8Nj-7
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: (-gGaL7N3-89y3=/)14)02/N(zP5Yn51c87+(68F-y0=c*RB
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: v)lh=2
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: l6hj3r7vRA)xSG9E//p3KlK2+KbF**69N0==rYB8FN*E=9-wozbMcvpntDYuy
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
+Input: H3op-4**Nu8B=)D*(
+Output:
+Line 474: Entering compute_ast function
+Line 479: Initialized ComputationResult
+Line 495: Starting tree traversal
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 96: Found variable token, returning
+Line 19: Processing right subtree
+Line 10: Entering traversal function
+Line 16: Processing left subtree
+Line 10: Entering traversal function
+Line 12: Node is NULL, returning
+Line 22: Checking node type
+Line 92: Found number token, returning
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 53: Processing multiplication operator
+Line 56: Multiplication result: 0.000000
+Line 22: Checking node type
+Line 25: Processing operator node
+Line 40: Processing subtraction operator
+Line 43: Subtraction result: -0.000000
+Line 497: Completed tree traversal
+Line 500: Final computed value: -0.000000
+Line 502: Returning from compute_ast
+
+--------------------------------------------
