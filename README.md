@@ -1,4 +1,6 @@
 # MannCalc
+This calculator program was made by Mann Upadhyay 
+
 # Mathematical Expression Parser and Evaluator
 
 A robust C program that parses, evaluates, and visualizes mathematical expressions using Abstract Syntax Trees (ASTs).
