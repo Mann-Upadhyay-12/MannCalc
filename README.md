@@ -23,4 +23,3 @@ A robust C program that parses, evaluates, and visualizes mathematical expressio
   - Malformed expressions
   - Memory allocation failures
 
-## Example Usage
